@@ -7,24 +7,27 @@
 
 - 🌱 I’m currently learning **Python, PHP, MySQL, DSA**
 
-- 🧑‍💻 Developer at:
-  www.krishnaworshipplace.com
-  www.Icrabb2023.com
-  Was Developer at:
-  foodyfrnd.com
-  searlagroindia.com
-  Co-founder at:
-  Foody frnd
-
 - 💬 Ask me about **anything about web development**
 
 - 📫 How to reach me **mukulgarg334@gmail.com**
 
 <h3 align="left">Developer at:</h3>
 <p align="left">
-<a href="https://www.krishnaworshipplace.com" target="blank"><img align="center" src="https://static.wixstatic.com/media/6cead2_8817b966606f45b5af557c66f248246f~mv2.jpeg" alt="mukuljaitu" height="30" width="40" /></a>
-<a href="https://www.icrabb2023.com" target="blank"><img align="center" src="https://static.wixstatic.com/media/6cead2_e15160c67e474f159c14e66e170b8aa3~mv2.jpg" alt="mukuljaitu" height="30" width="40" /></a>
+<a href="https://www.krishnaworshipplace.com" target="blank"><img align="center" src="https://static.wixstatic.com/media/6cead2_8817b966606f45b5af557c66f248246f~mv2.jpeg" alt="mukuljaitu" height="40" width="40" /></a>
+<a href="https://www.icrabb2023.com" target="blank"><img align="center" src="https://static.wixstatic.com/media/6cead2_e15160c67e474f159c14e66e170b8aa3~mv2.jpg" alt="mukuljaitu" height="40" width="40" /></a>
 </p>
+
+<h3 align="left">Was developer at:</h3>
+<p align="left">
+<ul>
+  <li>foodyfrnd.com</li>
+  <li>searlagroindia.com</li>
+</ul>
+<h3 align="left">Co-Founder at:</h3>
+<p align="left">
+<ul>
+  <li>Foody frnd</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
