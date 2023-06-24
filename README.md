@@ -7,6 +7,15 @@
 
 - 🌱 I’m currently learning **Python, PHP, MySQL, DSA**
 
+- 🧑‍💻 Developer at:
+  www.krishnaworshipplace.com
+  www.Icrabb2023.com
+  Was Developer at:
+  foodyfrnd.com
+  searlagroindia.com
+  Co-founder at:
+  Foody frnd
+
 - 💬 Ask me about **anything about web development**
 
 - 📫 How to reach me **mukulgarg334@gmail.com**
