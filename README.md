@@ -20,6 +20,12 @@
 
 - 📫 How to reach me **mukulgarg334@gmail.com**
 
+<h3 align="left">Developer at:</h3>
+<p align="left">
+<a href="https://www.krishnaworshipplace.com" target="blank"><img align="center" src="https://static.wixstatic.com/media/6cead2_8817b966606f45b5af557c66f248246f~mv2.jpeg" alt="mukuljaitu" height="30" width="40" /></a>
+<a href="https://www.icrabb2023.com" target="blank"><img align="center" src="https://static.wixstatic.com/media/6cead2_e15160c67e474f159c14e66e170b8aa3~mv2.jpg" alt="mukuljaitu" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mukuljaitu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mukuljaitu" height="30" width="40" /></a>
