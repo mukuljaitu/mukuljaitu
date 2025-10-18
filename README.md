@@ -74,15 +74,12 @@
 
 ### 🌐 Connect with Me  
 <p align="center">
-  <a href="mailto:mukulgarg334@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Email" />
+  <a href="mailto:mukulgarg334@gmail.com" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="36" alt="Gmail" title="Email Me" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mukuljaitu/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/mukuljaitu/" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="36" alt="LinkedIn" title="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://mukuljaitu.github.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="Portfolio Website" />
-  </a>
 </p>
 ---
 
