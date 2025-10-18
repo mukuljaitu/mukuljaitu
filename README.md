@@ -1,89 +1,91 @@
+<!--
+  Place this file in the repository named: mukuljaitu
+  (i.e. github.com/your-username/your-username)
+-->
+
 <h1 align="center">Hi 👋, I'm Mukul Garg</h1>
-<h3 align="center">🚀 Passionate Backend Developer & Programmer from India 🇮🇳</h3>
+<p align="center">🚀 Backend Developer • AI & Cloud Enthusiast • Full-Stack Learner</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mukuljaitu&label=Profile%20views&color=0e75b6&style=flat" alt="mukuljaitu" />
-  <a href="https://twitter.com/mukuljaitu" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/mukuljaitu?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
+  <a href="mailto:mukulgarg334@gmail.com">📫 mukulgarg334@gmail.com</a>
+  &nbsp; • &nbsp;
+  <a href="https://twitter.com/mukuljaitu" target="_blank">Twitter</a>
+  &nbsp; • &nbsp;
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">LinkedIn</a>
 </p>
 
 ---
 
-### 🌱 Currently Learning  
-**Python | PHP | MySQL | DSA**
-
-### 💬 Ask Me About  
-**Web Development, APIs, Backend Logic & Database Integration**
-
-### 📫 How to Reach Me  
-📧 **mukulgarg334@gmail.com**
+## 🔭 About Me
+I build robust backend systems, integrate ML models and cloud services, and ship features that scale. I enjoy solving real-world problems using **Python**, **PHP**, and cloud-native tools. Currently exploring advanced ML workflows on AWS and improving full-stack knowledge.
 
 ---
 
-### 💼 Developer At
-<p align="left">
-  <a href="https://www.krishnaworshipplace.com" target="_blank">
-    <img src="https://static.wixstatic.com/media/6cead2_8817b966606f45b5af557c66f248246f~mv2.jpeg" alt="Krishna Worship Place" height="40" width="40" />
-  </a>
-  <a href="https://www.icrabb2023.com" target="_blank">
-    <img src="https://static.wixstatic.com/media/6cead2_e15160c67e474f159c14e66e170b8aa3~mv2.jpg" alt="ICRABB 2023" height="40" width="40" />
-  </a>
-</p>
+## 🧰 Core Skills
 
-### 🧠 Past Work
-<ul>
-  <li><a href="https://foodyfrnd.com" target="_blank">foodyfrnd.com</a></li>
-  <li><a href="https://searlagroindia.com" target="_blank">searlagroindia.com</a></li>
-</ul>
-
-### ⚡ Co-Founder
-<ul>
-  <li>Foody Frnd</li>
-</ul>
+**Languages:** Python • PHP • JavaScript • C • C++ • SQL  
+**Backend & DB:** Node/Express (or mention the backend framework you use) • MySQL • DBMS • OOPS  
+**AI & Cloud:** AWS SageMaker • Rekognition • Comprehend • Lambda • Braket  
+**Tools:** Git • VS Code / Visual Studio  
+**Domains:** Full-Stack Development • Machine Learning • Cloud Computing
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://twitter.com/mukuljaitu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/mukuljaitu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/mukuljaitu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/mukuljaitu/profile" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
-  </a>
-</p>
+## 🔥 Highlights
+- Experience building backend services and REST/GraphQL APIs.  
+- Deploy ML models and serverless pipelines using AWS (SageMaker, Lambda).  
+- Comfortable with relational databases and query optimization.  
+- Passionate about writing clean, maintainable code and learning new tech.
 
 ---
 
-### 🧰 Languages & Tools
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-</p>
+## 🌟 Featured Projects
+
+> Replace these with your real repo links and short descriptions.
+
+### [Project-A-name](https://github.com/mukuljaitu/project-a)
+- Short 1-line summary: what it does and the tech stack.
+- Example: Backend API + MySQL + JWT auth. Deployed on AWS Lambda.
+
+### [ML-Pipeline-Demo](https://github.com/mukuljaitu/ml-pipeline-demo)
+- Short summary: demonstrates training and deploying a model to SageMaker.
+- Tech: Python, boto3, SageMaker, Docker.
+
+### [Fullstack-App-Sample](https://github.com/mukuljaitu/fullstack-app-sample)
+- Short summary: a simple fullstack demo with REST API and React frontend.
+- Tech: Node, Express, MySQL, React.
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukuljaitu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+## 📈 GitHub Stats
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mukuljaitu&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mukuljaitu&show_icons=true&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=mukuljaitu&show_icons=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukuljaitu&theme=tokyonight" alt="GitHub Streak" />
-</p>
+---
+
+## 🏆 Achievements / Learning
+- Building hands-on experience with AWS ML services (SageMaker, Braket).  
+- Consistently adding small, focused projects to practice backend & cloud integration.  
+- Learning DSA & system design to improve backend architecture skills.
+
+---
+
+## 💬 Let’s connect
+- Email: mukulgarg334@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN  
+- Twitter: https://twitter.com/mukuljaitu
+
+---
+
+### ✨ Tips to customize quickly
+1. Replace `YOUR-LINKEDIN` with your LinkedIn handle in links.  
+2. Replace featured project links and descriptions with your real repos.  
+3. If you want a badge theme, use `?theme=tokyonight` (or other) on the `github-readme-stats` links. Example:  
+   `https://github-readme-stats.vercel.app/api?username=mukuljaitu&show_icons=true&theme=tokyonight`  
+4. To pin projects visually, go to your GitHub profile → “Customize your pins” and pin the repos you listed.  
+5. Add a short demo GIF of your top project in the Featured Projects section for more impact.
+
+---
+
+Thanks — paste this into the profile repo and tell me which projects you want highlighted; I’ll personalize the project cards and write crisp 1–2 line descriptions for each. 🚀
