@@ -4,8 +4,7 @@
 <h3 align="center">💻 Backend Developer • ☁️ Cloud & AI Explorer • 🌐 Full-Stack Learner</h3>
 
 <p align="center">
-  <!-- Typing animations removed as requested -->
-  <strong>Building resilient backends • Shipping cloud-native ML • Turning ideas into product</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+Logic+Behind+Beautiful+Apps;Exploring+AI+and+AWS+Cloud;Turning+Ideas+into+Code" alt="Typing Animation" />
 </p>
 
 ---
